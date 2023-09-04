@@ -1,8 +1,7 @@
 /// 用户模型
 
 import 'package:freezed_annotation/freezed_annotation.dart';
-
-import '../../flutter_quanttide.dart';
+import 'package:flutter_quanttide/recase.dart';
 
 part 'user.freezed.dart';
 part 'user.g.dart';

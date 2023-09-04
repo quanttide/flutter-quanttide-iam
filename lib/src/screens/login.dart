@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_login/flutter_login.dart';
 import 'package:http/testing.dart';
 
-import '../../flutter_quanttide.dart';
+import 'flutter_quanttide/flutter_quanttide.dart';
 
 
 class LoginScreen extends StatelessWidget {
